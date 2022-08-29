@@ -8,6 +8,7 @@ button {
   font-family: 'Nunito Sans', sans-serif;
   cursor: pointer;
   margin: 1rem;
+  transition: 200ms;
 }
 
 button:hover {
