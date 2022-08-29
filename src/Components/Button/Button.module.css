@@ -1,0 +1,19 @@
+button {
+  background-color: rgb(164, 107, 217);
+  height: 2rem;
+  width: 7rem;
+  border-radius: 3px;
+  border: solid 1px black;
+  font-size: 1rem;
+  font-family: 'Nunito Sans', sans-serif;
+  cursor: pointer;
+  margin: 1rem;
+}
+
+button:hover {
+  filter: brightness(0.8);
+}
+
+button:active {
+  filter: hue-rotate(90deg);
+}

@@ -1,0 +1,13 @@
+.circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20rem;
+  width: 20rem;
+  background-color: rgb(232, 232, 139);
+  border-radius: 50%;
+}
+
+.circle p {
+  font-size: 3rem;
+}
